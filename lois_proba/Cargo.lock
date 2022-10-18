@@ -392,7 +392,6 @@ version = "0.1.0"
 dependencies = [
  "plotters",
  "plotters-svg",
- "rand",
  "rand_xoshiro",
  "statrs",
 ]

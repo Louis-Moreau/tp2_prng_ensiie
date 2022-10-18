@@ -8,7 +8,6 @@ edition = "2021"
 [dependencies]
 plotters = "0.3.4"
 plotters-svg = "0.3.3"
-rand = {version = "0.8.5", features = ["small_rng"]}
 rand_xoshiro = "0.6.0"
 statrs = "0.16.0"
 
